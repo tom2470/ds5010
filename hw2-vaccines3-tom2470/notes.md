@@ -1,0 +1,1 @@
+Me and Meghana made a lot of changes to this repository of pure horror. So had to change the months csv had to get rid of the orginal CDC file and make a new one had to update scatter to deal with the incomplete data. I may have had a few mental break downs I  may have questioned the existence of a higher power but in the ned this file runs and thats the best I could ask for. :)

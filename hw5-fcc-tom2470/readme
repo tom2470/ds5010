@@ -1,0 +1,21 @@
+# Homework 5
+## How to Construct
+```
+make data
+```
+Downloads the datasets. Datasets are found by fcc.gov and census.gov but pulled from Phillip Bogden's repo
+
+```
+make max
+```
+Make a dataset of the maximum download speed in each block. This can be seen in the data directory under speed.csv
+![](data/speed.csv)
+```
+make millinocket
+```
+computes the average speed for millinocket. The speed should be 946.8670157419529
+```
+make picture
+```
+Makes a image of max speed at block level
+![](img/map.png)
